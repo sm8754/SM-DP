@@ -40,5 +40,5 @@ Or run the 'requirement.txt' file to install the dependent packages.
 ## Intelligent driving
 - micro-dri
   ```bash
-  Set device parameters and run `main.py` to perform the main analysis.
+  Please set relevant instructions in the code based on the local device. Run `main.py` to perform the main analysis.
   ```
