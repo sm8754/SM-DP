@@ -1,0 +1,11 @@
+# run the file to install the required packages #
+
+python
+torch
+torchvision
+numpy
+serial
+PIL
+glob
+clip
+tqdm
