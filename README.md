@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a driver library for intelligent analysis.
+This is a driver library for intelligent analysis, provided by the paper titled "Smart microscopy of the future: task-driven framework using large models for digital pathology".
 
 
 ## Prerequisites
