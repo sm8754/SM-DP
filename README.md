@@ -9,7 +9,7 @@ This is a driver library for intelligent analysis, provided by the paper titled 
 
 The code is built with the following libraries:
 
-- Python 3.9
+- [Python 3.9](https://www.python.org/)
 
 - [Anaconda3](https://www.anaconda.com/)
 
@@ -37,7 +37,7 @@ Or run the 'requirement.txt' file to install the dependent packages.
   `LM_test.py`
   ```
 
-## Intelligent driving
+## Intelligent Driving
 - micro-dri
   ```bash
   Please set relevant instructions in the code based on the local device. Run `main.py` to perform the main analysis.
